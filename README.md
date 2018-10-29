@@ -4,4 +4,5 @@ SMS Spam Collection is a set of SMS tagged messages that have been collected for
 
 Dataset: https://www.kaggle.com/uciml/sms-spam-collection-dataset
 
-SMS_Classifier.ipynb is a Jupiter notebook that has the python code to process the SMS dataset.
+1. SMS_Classifier.ipynb is a Jupiter notebook that has the python code to process the SMS dataset, train the model and predict the type of messages.
+2. smsMessages.csv is a collection of tagges messages
